@@ -114,3 +114,22 @@ h3 {
   background-color: red;
   color: white;
 }
+
+.white-btn {
+  background-color: whitesmoke;
+  color: black;
+  padding: 7px 14px;
+  border: none;
+  border-radius: 3px;
+  font-size: 12px;
+  font-weight: bold;
+  cursor: pointer;
+  text-decoration: none;
+  position: absolute;
+  bottom: 15%;
+  left: 59%;
+}
+.white-btn:hover {
+  background-color: white;
+  color: black;
+}
