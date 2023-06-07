@@ -98,3 +98,19 @@ h3 {
   border-radius: 5px;
   text-align: center;
 }
+
+.readmore-btn {
+  background-color: #aa0001;
+  color: white;
+  padding: 7px 14px;
+  border: none;
+  border-radius: 3px;
+  font-size: 12px;
+  font-weight: bold;
+  cursor: pointer;
+  text-decoration: none;
+}
+.readmore-btn:hover {
+  background-color: red;
+  color: white;
+}
